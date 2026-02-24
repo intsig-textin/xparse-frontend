@@ -33,7 +33,7 @@
 
 以上功能，都可以在 [TextIn.com](https://textin.com) 上体验使用，[👉 体验地址](https://www.textin.com/console/recognition/robot_markdown?service=pdf_to_markdown)
 
-此外，我们正在持续开源和维护纯TS版本的文档解析标准可视化组件[@xparse-kit/visualizer](https://github.com/intsig-textin/xparse-kit/tree/master/packages/visualizer)，可集成到您的任何前端框架，欢迎体验和反馈～
+此外，我们开源了框架无关的文档解析可视化组件[@xparse-kit/visualizer](https://github.com/intsig-textin/xparse-kit/tree/master/packages/visualizer)，纯TS实现，可集成到您的任何前端框架，欢迎体验和反馈～
 
 ## 安装依赖
 
